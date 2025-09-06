@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simranjeet_Kaur_ClinicApp", "Simranjeet_Kaur_ClinicApp\Simranjeet_Kaur_ClinicApp.csproj", "{5E597271-CA5D-4B44-9D72-5A694F54E51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simranjeet_Kaur_ClinicAppTests", "Simranjeet_Kaur_ClinicAppTests\Simranjeet_Kaur_ClinicAppTests.csproj", "{EF837AA5-B496-470D-9209-CF74565E064A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E597271-CA5D-4B44-9D72-5A694F54E51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E597271-CA5D-4B44-9D72-5A694F54E51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E597271-CA5D-4B44-9D72-5A694F54E51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E597271-CA5D-4B44-9D72-5A694F54E51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF837AA5-B496-470D-9209-CF74565E064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF837AA5-B496-470D-9209-CF74565E064A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF837AA5-B496-470D-9209-CF74565E064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF837AA5-B496-470D-9209-CF74565E064A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7726FC-9407-45CD-AABF-FE85C1FC03CA}
+	EndGlobalSection
+EndGlobal
